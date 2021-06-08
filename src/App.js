@@ -52,7 +52,8 @@ export default function App() {
         />
         <img
           ref={linkRightRef}
-          src="https://i.imgur.com/GEXD7bk.gif" alt="Right"
+          src="https://i.imgur.com/GEXD7bk.gif"
+          alt="Right"
         />
         <img
           ref={linkUpRef}
